@@ -13,7 +13,7 @@ pip install cryptography
 ## Usage
 
 ```shell
-#Encriptado de ficheros
+# Encriptado de ficheros
 $ python3 cripto.py ./ficheros
 
 # Desencriptado de ficheros (suponiendo que genera los directorios c&c y encriptado
